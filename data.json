@@ -4,26 +4,30 @@
  "note": "",
  "where": "",
  "pin": null,
- "updated": "",
+ "updated": "3 Oct, 9:44 pm",
  "date": "",
  "meet": "",
  "depart": "",
- "members": [],
+ "members": [
+  "chehan",
+  "dinu",
+  "shani"
+ ],
  "att": [
   {
    "l": "",
-   "t": "",
-   "p": []
+   "p": [],
+   "t": ""
   },
   {
    "l": "",
-   "t": "",
-   "p": []
+   "p": [],
+   "t": ""
   },
   {
    "l": "",
-   "t": "",
-   "p": []
+   "p": [],
+   "t": ""
   }
  ],
  "contacts": [
