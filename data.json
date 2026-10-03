@@ -1,14 +1,18 @@
 {
- "msg": "chehan\ndinu\nsethila",
+ "msg": "",
  "stop": 0,
  "note": "",
  "where": "",
  "pin": null,
- "updated": "3 Oct, 11:59 pm",
+ "updated": "4 Oct, 12:00 am",
  "date": "",
  "meet": "",
  "depart": "",
- "members": [],
+ "members": [
+  "chehan",
+  "dinu",
+  "sethila"
+ ],
  "att": [
   {
    "l": "",
