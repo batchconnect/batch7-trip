@@ -3,8 +3,11 @@
  "stop": 0,
  "note": "",
  "where": "",
- "pin": null,
- "updated": "4 Oct, 12:00 am",
+ "pin": {
+  "x": 80.0475,
+  "y": 6.3456
+ },
+ "updated": "4 Oct, 12:36 am",
  "date": "",
  "meet": "",
  "depart": "",
