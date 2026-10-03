@@ -1,0 +1,51 @@
+{
+ "msg": "Welcome, Batch 7! Updates from the committee will appear here.",
+ "stop": 0,
+ "note": "",
+ "where": "",
+ "pin": null,
+ "updated": "",
+ "date": "",
+ "meet": "",
+ "depart": "",
+ "members": [],
+ "att": [
+  {
+   "l": "",
+   "t": "",
+   "p": []
+  },
+  {
+   "l": "",
+   "t": "",
+   "p": []
+  },
+  {
+   "l": "",
+   "t": "",
+   "p": []
+  }
+ ],
+ "contacts": [
+  {
+   "n": "Contact 1",
+   "r": "Trip leader",
+   "p": "0770000000"
+  },
+  {
+   "n": "Contact 2",
+   "r": "Committee",
+   "p": "0710000000"
+  },
+  {
+   "n": "Contact 3",
+   "r": "Committee",
+   "p": ""
+  },
+  {
+   "n": "Contact 4",
+   "r": "Committee",
+   "p": ""
+  }
+ ]
+}
