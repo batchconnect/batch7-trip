@@ -1,13 +1,13 @@
 {
- "msg": "hi now we are leaving colombo",
+ "msg": "",
  "stop": 0,
  "note": "",
- "where": "kaluthara",
+ "where": "",
  "pin": null,
- "updated": "3 Oct, 9:47 pm",
- "date": "7/8/2026",
- "meet": "portcity",
- "depart": "7.30 am",
+ "updated": "3 Oct, 9:48 pm",
+ "date": "",
+ "meet": "",
+ "depart": "",
  "members": [],
  "att": [
   {
@@ -34,13 +34,13 @@
   },
   {
    "n": "Contact 2",
-   "r": "binsue",
-   "p": "07188885555"
+   "r": "",
+   "p": ""
   },
   {
    "n": "Contact 3",
-   "r": "chehan",
-   "p": "07213485877"
+   "r": "",
+   "p": ""
   },
   {
    "n": "Contact 4",
