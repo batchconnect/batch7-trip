@@ -7,11 +7,16 @@
   "x": 80.0475,
   "y": 6.3456
  },
- "updated": "4 Oct, 12:36 am",
- "date": "",
- "meet": "",
- "depart": "",
- "members": [],
+ "updated": "6 Oct, 1:13 pm",
+ "date": "12 Oct 2026",
+ "meet": "First pickup at Makumbura",
+ "depart": "6:20 am",
+ "members": [
+  "chehan",
+  "xxxxx",
+  "yyyy",
+  "zzzzz"
+ ],
  "att": [
   {
    "l": "",
@@ -32,23 +37,40 @@
  "contacts": [
   {
    "n": "Contact 1",
-   "r": "Trip leader",
-   "p": "0770000000"
+   "r": "Binsuh",
+   "p": "0778755919"
   },
   {
    "n": "Contact 2",
-   "r": "",
+   "r": "Dinuli",
    "p": ""
   },
   {
-   "n": "Contact 3",
+   "n": "Parent's Contact",
    "r": "",
    "p": ""
   },
   {
    "n": "Contact 4",
-   "r": "Committee",
+   "r": "",
    "p": ""
+  }
+ ],
+ "buses": [
+  {
+   "l": "Bus 1",
+   "p": "",
+   "n": ""
+  },
+  {
+   "l": "Bus 2",
+   "p": "",
+   "n": ""
+  },
+  {
+   "l": "Bus 3",
+   "p": "",
+   "n": ""
   }
  ]
 }
