@@ -7,11 +7,48 @@
   "x": 80.0475,
   "y": 6.3456
  },
- "updated": "9 Oct, 12:15 pm",
+ "updated": "11 Oct, 12:41 am",
  "date": "12 Oct 2026",
  "meet": "First pickup at Makumbura Glomark",
  "depart": "5:45 am",
- "members": [],
+ "members": [
+  "Yashodh Yudantha",
+  "Avishka Bandara",
+  "Brenjah Ketheeswaran",
+  "Sachin Lakshan",
+  "Rusara S. Somachandra",
+  "Lithashine Prabakaran",
+  "Logeswaran Sivasiman",
+  "Dewmee Minsandi",
+  "Senushi Thennakoon",
+  "Gayuni Dihasna",
+  "Vidath De Silva",
+  "Savindu Hirushan",
+  "Mandi De Silva",
+  "Methni Alawathugoda",
+  "Pasindu Anjana",
+  "Shani",
+  "Dinuli",
+  "Chehan",
+  "Uvindu",
+  "Binush",
+  "Farhan Wijethunga",
+  "Hasini Mapa Gedara",
+  "Logeswaran Ranesh",
+  "Manuldi Nesadi",
+  "Anuja Ranmika",
+  "Aloka Feranando",
+  "Erandhi Bhagya",
+  "Sithmi Rasara Bandara",
+  "Chathumini Pramudika",
+  "Ishara",
+  "Malithi",
+  "Sanuthi Nayanadini",
+  "Navodya kithminie",
+  "Thisarani Chamodhya",
+  "Pahandi Methulima",
+  "Chalakee Seetharansi"
+ ],
  "att": [
   {
    "l": "",
@@ -38,15 +75,15 @@
   {
    "n": "Contact 2",
    "r": "Dinuli",
-   "p": ""
+   "p": "0716893587"
   },
   {
-   "n": "Contact 3",
+   "n": "Parent's Contact 1",
    "r": "",
    "p": ""
   },
   {
-   "n": "Parent's Contact",
+   "n": "Parent's Contact 2",
    "r": "",
    "p": ""
   }
