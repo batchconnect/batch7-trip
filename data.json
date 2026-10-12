@@ -1,13 +1,13 @@
 {
  "msg": "Panadura ppl get ready",
- "stop": 2,
+ "stop": 11,
  "note": "",
  "where": "",
  "pin": {
   "x": 80.0475,
   "y": 6.3456
  },
- "updated": "12 Oct, 7:16 am",
+ "updated": "12 Oct, 8:26 am",
  "date": "12 Oct 2026",
  "meet": "First pickup at Makumbura Glomark",
  "depart": "5:45 am",
@@ -87,9 +87,12 @@
     "Anuja Ranmika",
     "Aloka Feranando",
     "Sithmi Rasara Bandara",
-    "Erandhi Bhagya"
+    "Erandhi Bhagya",
+    "Sachini Sadunika",
+    "Chathumini Pramudika",
+    "Ishara"
    ],
-   "t": "12 Oct, 7:15 am"
+   "t": "12 Oct, 8:26 am"
   },
   {
    "l": "",
